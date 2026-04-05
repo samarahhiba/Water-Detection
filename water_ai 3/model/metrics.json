@@ -1,0 +1,56 @@
+{
+  "accuracy": 1.0,
+  "confusion_matrix": [
+    [
+      5,
+      0
+    ],
+    [
+      0,
+      9
+    ]
+  ],
+  "classification_report": {
+    "dirty": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 5.0
+    },
+    "clean": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 9.0
+    },
+    "accuracy": 1.0,
+    "macro avg": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 14.0
+    },
+    "weighted avg": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 14.0
+    }
+  },
+  "test_probabilities_clean": [
+    0.9577,
+    0.9964,
+    1.0,
+    1.0,
+    0.9982,
+    0.9984,
+    0.9994,
+    1.0,
+    0.9981,
+    0.0036,
+    0.0212,
+    0.0112,
+    0.016,
+    0.0422
+  ]
+}
